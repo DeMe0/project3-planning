@@ -117,12 +117,20 @@
 
 ## Components - Descriptions
 
--
--
--
--
--
--
+- nav bar header: 
+- searchbar
+- navbar footer
+- latest offers 
+- popular
+- recent
+- list of product    
+- more
+- latest offers
+- My bag/ my bag page
+- shopping cart/checkout
+- notification
+- Inbox
+- aboutus/aboutuspage
 
 ## Additional Libraries
 
