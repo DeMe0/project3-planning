@@ -2,7 +2,9 @@
 
 ## Description
 
-<!-- Description goes here   -->
+Have you ever wanted ice cream delivered straight to your door, but found yourself lacking useful product information because popular delivery services don't offer it?
+Well with Frizzy - the specialized frozen dessert delivery service, any and all useful information pertaining to our dessert products will be available to you on our app.
+The goal is to provide a seamless experience for ordering your desserts, while giving you all the allergy and nutritional information you'd want.
 
 ### Project Links
 
@@ -66,7 +68,6 @@
   - list of product
   - more
   - latest offers
-
 - list of product
   - img list of products
 - product details
@@ -96,12 +97,10 @@
 | Splash screen                              |    L     |      3hrs      |       0       |      0      |
 | Total                                      |    L     |    32.5hrs     |       0       |      0      |
 
-
 ### Post-MVP
 
 - reset passwrod
 - check mobile for code
-
 - make new password
 - Splash screen
 - log in forms
@@ -115,23 +114,21 @@
 - payments/payments page - add card
   -menu - profile
 
-
 ## Components - Descriptions
 
-- nav bar header: maybe drop down menu, has 4 options to go to
-- searchbar: a search bar for products?
-- navbar footer: same as navbarheader but also include home to go back to home page
-- latest offers: place for coupons
-- popular: what's popular
-- recent: recent ice cream
-- list of product: list of type of icecream?
-
-- more: might be a page or a way to go to pages like a middleman
-- My bag/ my bag page: shopping cart what you gonna buy
-- notification: are we doing this?
-- Inbox: same as above
-- aboutus/aboutuspage: team who we are and what website is i guess
-- make your own: style and edit the ice cream of you desire
+- LogoHeader: renders our logo at the top of each page
+- NavBar:
+  - mobile: footer that sticks to the bottom of the screen even when you scroll
+  - desktop: standard header navbar at top of page
+- Dropdown.js - dropdown menu with list of cities that filters the ice cream parlours being rendered
+- LatestOffers.js: place for coupons
+- Popular.js: an image/link carousel that renders a few options of our choice
+- IceCreamList.js: list of ice cream products in our api
+- Menu.js: - a page that renders DessertTypes.js
+- DessertTypes.js - renders a list of dessert types (ice cream, sorbet, italian ice, etc) that links to each of their respective pages
+- ShoppingCart - sets a new state of products that the user intends on buying
+- OrderConfirmation.js - renders final confirmation of our ShoppingCart's order function.
+- About - a blurb about our team, links to our websites, and a little description of our site and how we built it
 
 ## Additional Libraries
 
