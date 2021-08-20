@@ -33,8 +33,6 @@
 | Header                           |    H     |      2hrs      |       0       |      0      |
 | Home                             |    H     |      4hrs      |       0       |      0      |
 | CRUD options                     |    H     |      6hrs      |       0       |      0      |
-| Create  login/sign-in form       |    H     |      3hrs      |       0       |      0      |
-| Connecting  login/sign-in form  from backend       |    H     |      3.5hrs      |       0       |      0      |
 | aboutus/aboutuspage              |    H     |      2hrs      |       0       |      0      |
 | Menu                             |    H     |      8hrs      |       0       |      0      |
 | list of product                  |    H     |     4hrs      |       0       |      0      |
@@ -42,10 +40,9 @@
 | Responsiveness                   |    H     |      5hrs      |       0       |      0      |
 | Product details                  |    L     |      7hrs      |       0       |      0      |
 | latest offers                    |    L     |      4hrs      |       0       |      0      |
-| payments/payments page           |    L     |      1hrs      |       0       |      0      |
 | Extra Styling                    |    L     |      2hrs      |       0       |      0      |
 | My bag/ my bag page              |    L     |      2hrs      |       0       |      0      |
-| Total                            |    H     |    86.5hrs     |       0       |      0      |
+| Total                            |    H     |    79hrs     |       0       |      0      |
 
 ## MVP/Post-MVP
 
@@ -66,19 +63,10 @@
   - popular
   - recent
 - Color palette/styling
-- log in forms
-  - logn in page
-  - encrypt password
-  - forget password
-  -login with
-- Sign up forms
-  - sign up page
-  - create user name/password
 - Menu
   - list of product    
   - more
-  - latest offers
-  - profile
+  - latest offers  
 - list of product
   - img list of products
 - product details
@@ -86,10 +74,8 @@
   - img list of latest offers
   - Check Offers
 - more
-  - payments/payments page
-    - add card
   - My bag/ my bag page
-    - shopping cart/checkout
+  - shopping cart/checkout
   - notification
   - Inbox
   - aboutus/aboutuspage
@@ -98,11 +84,15 @@
 
   | Component                        | Priority | Estimated Time | Time Invested | Actual Time |
 | -------------------------------- | :------: | :------------: | :-----------: | :---------: |
+| Create  login/sign-in form       |    H     |      3hrs      |       0       |      0      |
+| Connecting  login/sign-in form  from backend       |    H     |      3.5hrs      |       0       |      0      |
+| payments/payments page           |    L     |      3hrs      |       0       |      0      |
+|  profile                   |    L     |      4hrs      |       0       |      0      |
 |  reset passwrod                    |    L     |      4hrs      |       0       |      0      |
 |  check mobile for login code       |    L     |      8hrs      |       0       |      0      |
 |  make new password                 |    L     |      4hrs      |       0       |      0      |
 |  Splash screen                     |    L     |      3hrs      |       0       |      0      |
-| Total                              |    L     |    19hrs     |       0       |      0      |
+| Total                              |    L     |    32.5hrs     |       0       |      0      |
 
 
 ### Post-MVP
@@ -111,6 +101,18 @@
 - check mobile for code 
 - make new password
 - Splash screen
+- log in forms
+  - logn in page
+  - encrypt password
+  - forget password
+  -login with
+- Sign up forms
+  - sign up page
+  - create user name/password
+- payments/payments page
+    - add card
+-menu
+    - profile
 
 
 ## Components - Descriptions
