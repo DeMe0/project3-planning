@@ -35,6 +35,7 @@
 | CRUD options                     |    H     |      6hrs      |       0       |      0      |
 | aboutus/aboutuspage              |    H     |      2hrs      |       0       |      0      |
 | Menu                             |    H     |      8hrs      |       0       |      0      |
+| make your own                    |    H     |      4hrs      |       0       |      0      |
 | list of product                  |    H     |     4hrs       |       0       |      0      |
 | Styling                          |    H     |      8hrs      |       0       |      0      |
 | Responsiveness                   |    H     |      5hrs      |       0       |      0      |
@@ -42,7 +43,7 @@
 | latest offers                    |    L     |      4hrs      |       0       |      0      |
 | Extra Styling                    |    L     |      2hrs      |       0       |      0      |
 | My bag/ my bag page              |    L     |      2hrs      |       0       |      0      |
-| Total                            |    H     |    79hrs       |       0       |      0      |
+| Total                            |    H     |    83hrs       |       0       |      0      |
 
 ## MVP/Post-MVP
 
@@ -79,6 +80,8 @@
   - notification
   - Inbox
   - aboutus/aboutuspage
+- make your own
+    -edit your stuff
 
 ### Time/Priority Matrix post mvp
 
@@ -116,20 +119,19 @@
 
 ## Components - Descriptions
 
-- nav bar header: 
-- searchbar
-- navbar footer
-- latest offers 
-- popular
-- recent
-- list of product    
-- more
-- latest offers
-- My bag/ my bag page
-- shopping cart/checkout
-- notification
-- Inbox
-- aboutus/aboutuspage
+- nav bar header: maybe drop down menu, has 4 options to go to
+- searchbar: a search bar for products?
+- navbar footer: same as navbarheader but also include home to go back to home page
+- latest offers: place for coupons
+- popular: what's popular
+- recent: recent ice cream
+- list of product: list of type of icecream?    
+- more: might be a page or a way to go to pages like a middleman
+- My bag/ my bag page: shopping cart what you gonna buy
+- notification: are we doing this?
+- Inbox: same as above
+- aboutus/aboutuspage: team who we are and what website is i guess
+- make your own: style and edit the ice cream of you desire
 
 ## Additional Libraries
 
