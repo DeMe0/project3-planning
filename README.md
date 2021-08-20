@@ -65,6 +65,7 @@ The goal is to provide a seamless experience for ordering your desserts, while g
   - recent
 - Color palette/styling
 - Menu
+
   - list of product
   - more
   - latest offers
