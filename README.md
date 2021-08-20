@@ -21,7 +21,7 @@
 | Component                        | Priority | Estimated Time | Time Invested | Actual Time |
 | -------------------------------- | :------: | :------------: | :-----------: | :---------: |
 | Git management                   |    H     |      8hrs      |       0       |      0      |
-| Q&A and bug fixes                |    H     |      3.5hrs      |       0       |      0      |
+| Q&A and bug fixes                |    H     |      3.5hrs    |       0       |      0      |
 | Connection                       |    H     |      1hr       |       0       |      0      |
 | Express                          |    H     |      1hr       |       0       |      0      |
 | Routes                           |    H     |      2hrs      |       0       |      0      |
@@ -35,14 +35,14 @@
 | CRUD options                     |    H     |      6hrs      |       0       |      0      |
 | aboutus/aboutuspage              |    H     |      2hrs      |       0       |      0      |
 | Menu                             |    H     |      8hrs      |       0       |      0      |
-| list of product                  |    H     |     4hrs      |       0       |      0      |
-| Styling                             |    H     |      8hrs      |       0       |      0      |
+| list of product                  |    H     |     4hrs       |       0       |      0      |
+| Styling                          |    H     |      8hrs      |       0       |      0      |
 | Responsiveness                   |    H     |      5hrs      |       0       |      0      |
 | Product details                  |    L     |      7hrs      |       0       |      0      |
 | latest offers                    |    L     |      4hrs      |       0       |      0      |
 | Extra Styling                    |    L     |      2hrs      |       0       |      0      |
 | My bag/ my bag page              |    L     |      2hrs      |       0       |      0      |
-| Total                            |    H     |    79hrs     |       0       |      0      |
+| Total                            |    H     |    79hrs       |       0       |      0      |
 
 ## MVP/Post-MVP
 
@@ -87,12 +87,12 @@
 | Create  login/sign-in form       |    H     |      3hrs      |       0       |      0      |
 | Connecting  login/sign-in form  from backend       |    H     |      3.5hrs      |       0       |      0      |
 | payments/payments page           |    L     |      3hrs      |       0       |      0      |
-|  profile                   |    L     |      4hrs      |       0       |      0      |
-|  reset passwrod                    |    L     |      4hrs      |       0       |      0      |
-|  check mobile for login code       |    L     |      8hrs      |       0       |      0      |
-|  make new password                 |    L     |      4hrs      |       0       |      0      |
-|  Splash screen                     |    L     |      3hrs      |       0       |      0      |
-| Total                              |    L     |    32.5hrs     |       0       |      0      |
+|  profile                         |    L     |      4hrs      |       0       |      0      |
+|  reset passwrod                  |    L     |      4hrs      |       0       |      0      |
+|  check mobile for login code     |    L     |      8hrs      |       0       |      0      |
+|  make new password               |    L     |      4hrs      |       0       |      0      |
+|  Splash screen                   |    L     |      3hrs      |       0       |      0      |
+| Total                            |    L     |    32.5hrs     |       0       |      0      |
 
 
 ### Post-MVP
@@ -113,7 +113,6 @@
     - add card
 -menu
     - profile
-
 
 ## Components - Descriptions
 
