@@ -77,8 +77,8 @@
 - Menu
   - list of product    
   - more
-  -latest offers
-  -profile
+  - latest offers
+  - profile
 - list of product
   - img list of products
 - product details
@@ -111,6 +111,8 @@
 - check mobile for code 
 - make new password
 - Splash screen
+
+
 ## Components - Descriptions
 
 -
