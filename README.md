@@ -66,6 +66,7 @@
   - list of product
   - more
   - latest offers
+
 - list of product
   - img list of products
 - product details
@@ -95,10 +96,12 @@
 | Splash screen                              |    L     |      3hrs      |       0       |      0      |
 | Total                                      |    L     |    32.5hrs     |       0       |      0      |
 
+
 ### Post-MVP
 
 - reset passwrod
 - check mobile for code
+
 - make new password
 - Splash screen
 - log in forms
@@ -112,6 +115,7 @@
 - payments/payments page - add card
   -menu - profile
 
+
 ## Components - Descriptions
 
 - nav bar header: maybe drop down menu, has 4 options to go to
@@ -121,6 +125,7 @@
 - popular: what's popular
 - recent: recent ice cream
 - list of product: list of type of icecream?
+
 - more: might be a page or a way to go to pages like a middleman
 - My bag/ my bag page: shopping cart what you gonna buy
 - notification: are we doing this?
