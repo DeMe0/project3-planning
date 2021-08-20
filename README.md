@@ -65,9 +65,11 @@ The goal is to provide a seamless experience for ordering your desserts, while g
   - recent
 - Color palette/styling
 - Menu
+
   - list of product
   - more
   - latest offers
+
 - list of product
   - img list of products
 - product details
@@ -101,6 +103,7 @@ The goal is to provide a seamless experience for ordering your desserts, while g
 
 - reset passwrod
 - check mobile for code
+
 - make new password
 - Splash screen
 - log in forms
